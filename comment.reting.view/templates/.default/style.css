@@ -1,0 +1,16 @@
+.stars{
+
+display:inline-block
+}
+.star{
+float:right;
+color:#fff;
+}
+.star:before
+{
+    content: "\272A"; /*\272A*/
+    font-size: 46px;
+    color: #fffbfb;
+    line-height: 34px;
+
+}
